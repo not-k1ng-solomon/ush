@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Helvetica';
+    src: url('HelveticaRegular.eot'); /* IE9 Compat Modes */
+    src: url('HelveticaRegular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('HelveticaRegular.woff') format('woff'), /* Modern Browsers */
+         url('HelveticaRegular.ttf') format('truetype');/* Safari, Android, iOS */
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('HelveticaLight.eot'); /* IE9 Compat Modes */
+    src: url('HelveticaLight.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('HelveticaLight.woff') format('woff'), /* Modern Browsers */
+    url('HelveticaLight.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('HelveticaBold.eot'); /* IE9 Compat Modes */
+    src: url('HelveticaBold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('HelveticaBold.woff') format('woff'), /* Modern Browsers */
+    url('HelveticaBold.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'Helvetica';
+    src: url('HelveticaMedium.eot'); /* IE9 Compat Modes */
+    src: url('HelveticaMedium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('HelveticaMedium.woff') format('woff'), /* Modern Browsers */
+    url('HelveticaMedium.ttf') format('truetype');
+    font-style: normal;
+    font-weight: 600;
+}
+
+
+
